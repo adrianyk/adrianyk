@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adrian!
+# Hi, I'm Adrian!
 
 I'm an MEng student in **Electronic and Information Engineering** at **Imperial College London**, passionate about embedded systems, hardware-software co-design, and full-stack IoT solutions. I love building systems that blend hardware intelligence with scalable cloud software.
 
