@@ -13,6 +13,17 @@ I'm an MEng student in **Electronic and Information Engineering** at **Imperial 
 
 # Notable Projects
 
+## [Mobile App for Air Quality Sensor](https://github.com/adrianyk/Small-Air-Quality-Sensor)
+Android app built with React Native to interface via BLE with a custom microcontroller-based air quality sensor.  
+- Session-based UX with BLE control, device status monitoring, and local storage via AsyncStorage  
+- Integrated Firebase Auth & Firestore for secure, user-linked cloud sync and session tracking  
+- Responsive UI with dynamic states, upload indicators, and toast notifications  
+- Aligned app logic with BLE protocols in collaboration with hardware team  
+- Leveraged AI tools for debugging, boilerplate generation, and feature optimisation  
+- **Tech:** React Native (Expo), BLE, Firebase (Auth, Firestore), AsyncStorage, UX Design, Modular Architecture, Git
+
+---
+
 ## [FPGA Flight Simulator Game](https://github.com/lolzio5/theflyingproject)
 A 2-player real-time flight simulator using DE10-Lite FPGAs and AWS cloud backend.  
 - TCP/IP communication between FPGA and AWS EC2  
